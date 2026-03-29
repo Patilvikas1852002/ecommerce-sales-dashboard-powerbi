@@ -1,6 +1,5 @@
-# ecommerce-sales-dashboard-powerbi
 # 📊 E-Commerce Sales Dashboard (Power BI Project)
-# 🔎 Project Overview
+
 
 # 📸 Dashboard Preview
 
@@ -9,7 +8,7 @@
 
 
 
-
+# 🔎 Project Overview
 This project presents an interactive E-Commerce Sales Dashboard built using Power BI to analyze:
 
 Year-to-Date (YTD) Sales
